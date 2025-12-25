@@ -1,16 +1,11 @@
-
-
+       
 {
-    "version": 2,
-    "students": [
+        "version": 3,
+        "students": [
         {
-            "name": "Akash",
-            "course": "Ethical Hacking"
-        },
-        {
-            "name": "Rohan",
-            "course": "DevOps"
+        "name": "John",
+        "course": "AI & ML"
         }
-    ],
-    "message": "Updated from Akay_new branch"
-}
+        ],
+        "note": "Updated from MAIN branch"
+      }
